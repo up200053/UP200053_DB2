@@ -1,2 +1,3 @@
 # UP200053_DB2
-## Hola
+## Juan Pablo Lopez Gonzalez
+## DB_2
